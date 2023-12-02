@@ -166,7 +166,7 @@ span#type-percentage{
   margin-left: 7px;
 }
 
-#type-title,#type{
+#type-title,#type,#type-description,#type-percentage{
   font-size: 28px;
   font-weight: 800;
   text-align: center;
